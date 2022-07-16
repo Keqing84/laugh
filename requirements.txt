@@ -1,2 +1,2 @@
 TgCrypto
-Pyrogram
+Pyrogram==1.4
